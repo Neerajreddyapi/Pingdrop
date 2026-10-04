@@ -36,6 +36,13 @@ Notifications, clipboard and files — over your own Wi-Fi. No account. No cloud
 > published here under [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases) —
 > click **Watch → Custom → Releases** at the top of this page to get notified.
 
+## What's new in 1.3.1
+
+- **A new look** — the new PingDrop icon on Android (including themed icons) and the Mac,
+  where the menu bar now shows the PingDrop mark.
+- A redesigned PingDrop Pro screen.
+- Pro unlocks or refunds take effect as soon as you reopen the app.
+
 ## What's new in 1.3
 
 - **PingDrop Pro** — reply from your Mac, notification rules and quiet hours, calendar
