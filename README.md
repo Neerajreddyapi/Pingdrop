@@ -36,6 +36,15 @@ Notifications, clipboard and files — over your own Wi-Fi. No account. No cloud
 > published here under [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases) —
 > click **Watch → Custom → Releases** at the top of this page to get notified.
 
+## What's new in 1.3.2
+
+- **A fresh new look** — bolder text, cleaner cards and a true black dark mode.
+- Text follows your phone's font and size settings.
+- Free transfers are up to 2 GB each, with 3 larger ones free to try. PingDrop Pro sends
+  any size.
+- A clear sheet shows how many free large transfers you have left.
+- Smoother screen transitions.
+
 ## What's new in 1.3.1
 
 - **A new look** — the new PingDrop icon on Android (including themed icons) and the Mac,
@@ -93,8 +102,10 @@ tells you, and the Android app can install its own updates from Google Play.
 | **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop) | <img src="https://getpingdrop.vercel.app/api/badge?kind=version" alt="Play Store version"> |
 | **Mac** | Coming soon to [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases) | — |
 
-PingDrop is free. The Android app shows one small banner ad, which a one-time
-**[PingDrop Pro](#pingdrop-pro)** purchase removes — along with unlocking everything below.
+PingDrop is free. The Android app shows a small banner ad and, now and then, a full-screen ad
+after a transfer. Free transfers are up to 2 GB each, with 3 larger ones to try. A one-time
+**[PingDrop Pro](#pingdrop-pro)** purchase removes the ads and the limit — along with unlocking
+everything below.
 
 ## PingDrop Pro
 
@@ -103,7 +114,8 @@ your Mac.
 
 | | |
 |---|---|
-| **No ads** | The banner in the Android app is gone for good. |
+| **No ads** | The banner and full-screen ads in the Android app are gone for good. |
+| **Any file size** | Send transfers of any size. Free sends are up to 2 GB each, with 3 larger ones to try. |
 | **Reply from your Mac** | Answer a message straight from its notification on the Mac. |
 | **Notification rules** | Quiet hours, and Normal, Quiet or Priority for each app — Priority always gets through. |
 | **Calendar reminders** | Upcoming events from your Mac's calendars, as reminders on your phone. |
@@ -154,9 +166,10 @@ PingDrop is built so your data never has to leave your own devices.
   everything after that is encrypted with it (AES-256-GCM). The key never leaves the
   two devices.
 - **The Mac app makes no internet connections at all.**
-- **The Android app shows a small banner ad** from Google AdMob, which does use the
-  internet. PingDrop never passes your notifications, clipboard or files to the ad
-  network. A one-time **PingDrop Pro** purchase removes the ad.
+- **The Android app shows ads** from Google AdMob — a small banner, and now and then a
+  full-screen ad after a transfer — which do use the internet. PingDrop never passes your
+  notifications, clipboard or files to the ad network. A one-time **PingDrop Pro** purchase
+  removes the ads.
 - Clipboard items your password manager marks as sensitive are never sent.
 - **Calendar reminders (Pro) are off until you turn them on** and allow calendar access
   on your Mac. Events are read on the Mac and sent, encrypted, only to your paired phone.
