@@ -86,9 +86,12 @@ on the Mac and it clears on the phone too.
 send it over with one tap — Push clipboard to Mac, the Quick Settings tile, or the share sheet. Each direction has its
 own switch.
 
-**Files, both ways.** Drag files onto the PingDrop icon in your menu bar to send them
-to your phone, or share from any Android app to your Mac. Transfers show live
-progress and land in Downloads.
+**Files, both ways.** Drag files onto the PingDrop icon in your menu bar — or right-click
+them in Finder → Send to Phone — to send them to your phone, or share from any Android
+app to your Mac. Transfers show live progress and land in Downloads.
+
+**Find my phone.** Ring your phone from the Mac's menu bar — loudly, even on silent —
+or ring your Mac from the phone, its widget or a Quick Settings tile.
 
 **Battery at a glance.** Your phone's charge in the Mac menu bar, your Mac's charge in
 the phone's notification shade.
@@ -207,6 +210,10 @@ Some Android phones stop background apps to save battery. If PingDrop shows
 **The Mac asks to find devices on your local network.**
 Allow it. That is how the Mac reaches your phone — PingDrop only ever talks to the
 phone you paired.
+
+**The Mac's Wi-Fi status keeps dropping.**
+Check System Settings → Privacy & Security → Local Network and make sure PingDrop is
+switched on. Without it the Mac can hear the phone but can't reply.
 
 **Can I pair more than one phone?**
 One phone per Mac. **Pair New Phone** replaces the current one.
