@@ -32,7 +32,7 @@ Notifications, clipboard and files — over your own Wi-Fi. No account. No cloud
 </div>
 
 > [!NOTE]
-> **PingDrop 1.4 is rolling out on Google Play.** The Mac app is coming soon and will be
+> **PingDrop 1.4 is out on Google Play.** The Mac app is coming soon and will be
 > published here under [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases) —
 > click **Watch → Custom → Releases** at the top of this page to get notified.
 
