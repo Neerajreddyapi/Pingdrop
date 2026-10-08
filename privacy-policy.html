@@ -36,7 +36,7 @@
 <body>
 
 <h1>PingDrop — Privacy Policy</h1>
-<p class="sub">Effective 5 October 2026 · Applies to PingDrop for Android and PingDrop for Mac ·
+<p class="sub">Effective 9 October 2026 · Applies to PingDrop for Android and PingDrop for Mac ·
 Contact <a href="mailto:pingdrop.support@gmail.com">pingdrop.support@gmail.com</a></p>
 <p>PingDrop is developed by Neeraj Reddy. It connects your Android phone to your Mac so your
 notifications, clipboard and files can move between them.</p>
@@ -168,10 +168,39 @@ calendar is read only on your Mac and sent, encrypted, only to your paired phone
 off on either device, and withdraw calendar access at any time in macOS System Settings → Privacy
 &amp; Security → Calendars.</p>
 
+<h3>Media controls <span class="pro">PRO</span></h3>
+<p>While this is on, your phone sends the title, artist, app name and a small cover image of what
+is playing (for example in Spotify or YouTube) to your paired Mac, so the Mac can show it with
+play, pause and skip buttons. The buttons are sent back to the phone. This uses the notification
+access PingDrop already has; no new permission. Turn it off in Pro features on the phone.</p>
+
+<h3>Notification history <span class="pro">PRO</span></h3>
+<p>Your Mac keeps the notifications it shows from your phone so you can search them later: the app
+name, title, text and time, for up to 30 days (at most 500), in PingDrop's folder in Application
+Support on your Mac. It is never sent anywhere. Switch it off, or clear it, in PingDrop's
+Preferences.</p>
+
+<h3>Auto-send a folder <span class="pro">PRO</span></h3>
+<p>You pick one folder on your phone with Android's own folder picker. PingDrop can read only that
+folder — it does not use any photo or storage permission — and sends files added to it after you
+chose it, once each and only over Wi-Fi, to your paired Mac. The Mac saves them in a folder you
+choose (by default PingDrop › Auto-received from phone). Turn it off, or change the folder, at any
+time.</p>
+
+<h3>Home-screen widget <span class="pro">PRO</span></h3>
+<p>The widget shows your Mac's name, connection and battery, which are already on your phone. It
+sends nothing by itself; its buttons do the same as the matching buttons in the app.</p>
+
 <h3>Notification rules, battery alerts, file settings <span class="pro">PRO</span></h3>
 <p>Quiet hours, which apps are quiet or priority, battery alert levels, auto-accepting files and
 the folder files are saved to are settings stored on your own devices. A folder you choose is
 accessed only through the permission you grant in the system folder picker.</p>
+
+<h3>Find my phone and Ring my Mac</h3>
+<p>Available to everyone. When you ask, the other device plays a sound for up to 30 seconds. To make
+sure you hear it, the phone briefly turns its alarm volume up and vibrates, then puts the volume
+back. You can choose the sound on each device. Nothing is collected or sent other than the
+request to ring.</p>
 
 <hr>
 
@@ -183,6 +212,7 @@ accessed only through the permission you grant in the system folder picker.</p>
 <tr><td>Transfer history (the last 100 transfers: file name, size, direction, outcome, time)</td><td>Phone and Mac, each in PingDrop's private storage</td><td>Until replaced, or you clear it</td></tr>
 <tr><td>App icons</td><td>Mac, in PingDrop's cache</td><td>Refreshed when apps update</td></tr>
 <tr><td>Crash reports</td><td>Mac, in PingDrop's private storage (newest 20)</td><td>Until you delete them</td></tr>
+<tr><td>Notification history (Pro, can be switched off)</td><td>Mac, in PingDrop's Application Support folder</td><td>Up to 30 days or 500 notifications, until cleared</td></tr>
 <tr><td>Settings and Pro preferences</td><td>Each device</td><td>Until you change them or uninstall</td></tr>
 </table>
 <p><strong>Backups.</strong> On Android, the pairing key, clipboard history and transfer history are
@@ -268,6 +298,8 @@ this policy — open in your browser or the Play Store. Those sites have their o
 <tr><td>Camera</td><td>To scan the pairing QR code. Nothing is recorded or sent.</td></tr>
 <tr><td>Storage (Android 9 and below only)</td><td>To save received files. Newer Android versions need no storage permission: files are chosen in the system picker and saved through Android's Downloads, or a folder you pick.</td></tr>
 <tr><td>Advertising ID</td><td>Used by Google AdMob in the free version.</td></tr>
+<tr><td>Vibrate</td><td>So your phone vibrates while your Mac is ringing it (Find my phone).</td></tr>
+<tr><td>A folder you choose (Pro, optional)</td><td>Only for Auto-send a folder, granted through Android's folder picker. Only that folder can be read.</td></tr>
 <tr><td>Ignore battery optimisations</td><td>Optional. Some manufacturers stop background connections aggressively; this keeps the link alive.</td></tr>
 <tr><td>Billing</td><td>For the PingDrop Pro purchase.</td></tr>
 </table>
@@ -279,7 +311,7 @@ this policy — open in your browser or the Play Store. Those sites have their o
 <tr><td>Local network</td><td>To talk to your phone on your Wi-Fi network.</td></tr>
 <tr><td>Notifications</td><td>To show your phone's notifications on your Mac.</td></tr>
 <tr><td>Downloads folder</td><td>To save the files you receive.</td></tr>
-<tr><td>Folders you choose</td><td>Only folders you pick yourself — to send files, or as a save location (Pro).</td></tr>
+<tr><td>Files and folders you choose</td><td>Only ones you pick yourself — files you send (including with Send to Phone in Finder), a save location or auto-received folder (Pro), or your own ring sound.</td></tr>
 <tr><td>Calendars (optional, Pro)</td><td>Only if you turn on calendar reminders. See section 4.</td></tr>
 <tr><td>Open at login (optional)</td><td>So your phone can connect after you restart your Mac. Asked once; change it in Preferences.</td></tr>
 </table>

@@ -32,9 +32,22 @@ Notifications, clipboard and files — over your own Wi-Fi. No account. No cloud
 </div>
 
 > [!NOTE]
-> **PingDrop 1.3 is out on Google Play.** The Mac app is coming soon and will be
+> **PingDrop 1.4 is rolling out on Google Play.** The Mac app is coming soon and will be
 > published here under [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases) —
 > click **Watch → Custom → Releases** at the top of this page to get notified.
+
+## What's new in 1.4
+
+- **Find my phone** — ring your phone from the Mac's menu bar, loudly, even on silent. And
+  **Ring my Mac** from the phone, its widget or a Quick Settings tile. Pick the ring sound on
+  each device.
+- **Send to Phone from Finder** — right-click files → Quick Actions → Send to Phone with PingDrop.
+- **Quick Settings tiles** for Send Clipboard and Ring my Mac — add them from Settings → Shortcuts.
+- **Tips** on the Home screen for shortcuts you might not know about.
+- On the Mac: an optional **Liquid Glass** look (macOS 26+) and a resizable Preferences window.
+- **New in PingDrop Pro:** media controls on the Mac, notification history and search,
+  a home-screen widget, and auto-send a folder (like Screenshots) to your Mac.
+- A clearer PingDrop Pro screen.
 
 ## What's new in 1.3.2
 
@@ -109,7 +122,7 @@ everything below.
 
 ## PingDrop Pro
 
-Available now in PingDrop 1.3. One purchase in the Android app — no subscription — unlocks Pro on your phone **and**
+Bigger in PingDrop 1.4. One purchase in the Android app — no subscription — unlocks Pro on your phone **and**
 your Mac.
 
 | | |
@@ -122,6 +135,10 @@ your Mac.
 | **Clipboard images** | Copy an image on your Mac, paste it on your phone. Send one back with Push clipboard to Mac. |
 | **Custom battery alerts** | Up to 10 alerts each — your phone's battery on the Mac, your Mac's on the phone. |
 | **Files your way** | Accept transfers automatically and choose where received files are saved, on both sides. |
+| **Media controls** | See what's playing on your phone and play, pause or skip from the Mac's menu bar. |
+| **Notification history** | Search every notification from the last 30 days, on your Mac. Kept on the Mac only. |
+| **Auto-send a folder** | A folder you select, like Screenshots, goes to your Mac automatically, over Wi-Fi. |
+| **Home-screen widget** | Your Mac's battery, plus Send files, Clipboard and Ring Mac, on your phone's home screen. |
 
 ## Getting started
 
