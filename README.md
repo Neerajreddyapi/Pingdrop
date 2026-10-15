@@ -175,7 +175,17 @@ your Mac.
 5. On the phone, tap **Pair with Mac** and scan the code. Allow notification access
    when asked.
 
-Both devices should show **Wi-Fi + BLE** within a few seconds.
+Both devices should show **Wi-Fi + BLE** within a few seconds. If only Bluetooth connects,
+check that both are on the same Wi-Fi and that PingDrop is switched on in the Mac's System
+Settings → Privacy & Security → **Local Network**.
+
+**Phone as a webcam (Pro):** on the Mac, PingDrop **Preferences → PingDrop Camera → Add PingDrop
+Camera**, then allow it in System Settings → General → Login Items & Extensions → Camera
+Extensions. Pick **PingDrop Camera** in FaceTime (Video menu), Zoom or Meet, and tap **Start** on
+your phone. FaceTime's effects — background blur, Studio Light, reactions — work on it too.
+
+**Got a promo code?** On the phone: **Upgrade → Have a promo code?** On the Mac:
+**Preferences → PingDrop Pro → Have a promo code?**
 
 ## Updating
 
