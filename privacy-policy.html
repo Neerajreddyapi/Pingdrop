@@ -68,7 +68,8 @@ or a direct Bluetooth link. The developer cannot see any of it, because none of 
 anywhere the developer controls.</p>
 <p>The exceptions are the services of Google that the Android app uses — advertising in the free
 version, Google Play Billing for purchases, and Google Play for update checks — each described
-below. The Mac app makes no internet connections at all.</p>
+below — and, only if you enter a promo code, one request to check it (section 8). The Mac app makes
+no internet connections at all.</p>
 
 <hr>
 
@@ -290,12 +291,19 @@ information about you is sent to the developer.</p>
 <p><strong>Links.</strong> Links in the apps — Buy me a coffee, the GitHub page, the Play Store listing,
 this policy — open in your browser or the Play Store. Those sites have their own privacy policies.</p>
 
+<h3>Promo codes</h3>
+<p>If you enter a PingDrop promo code (on the phone, or in the Mac's Preferences, which hands it to the
+phone), the phone sends <strong>only that code</strong> once to getpingdrop.vercel.app, which checks it
+against the developer's list of codes, marks it used and answers until when Pro lasts. Nothing else is
+sent — no name, account, device ID or anything from your phone — and the list keeps only the code and
+when it was used. After that, the end date is kept on your phone and nothing more is sent.</p>
+
 <hr>
 
 <h2 id="not">9. What PingDrop does not do</h2>
 <ul>
   <li>No analytics, tracking or third-party crash-reporting SDK</li>
-  <li>No developer-operated server; nothing is transmitted to the developer</li>
+  <li>No developer-operated server for your data; the only thing ever sent to the developer is a promo code you choose to enter</li>
   <li>No account, sign-in, email collection or user profile</li>
   <li>No selling or sharing of personal data with third parties, other than the advertising
   described above</li>
@@ -314,7 +322,7 @@ this policy — open in your browser or the Play Store. Those sites have their o
 <tr><td>Notification access</td><td>To mirror your notifications to your Mac, and to reply to them (Pro). The core feature.</td></tr>
 <tr><td>Bluetooth (scan, connect, advertise)</td><td>To find and connect to your Mac when Wi-Fi is unavailable.</td></tr>
 <tr><td>Location (approximate &amp; precise)</td><td><strong>Required by Android 11 and below for any Bluetooth scan.</strong> PingDrop never requests, reads, stores or sends your location. On Android 12 and later it is not requested at all — the Bluetooth scan is flagged <code>neverForLocation</code>.</td></tr>
-<tr><td>Internet, network and Wi-Fi state, Wi-Fi multicast</td><td>To talk to your Mac on your local network and find it there. PingDrop's own traffic never leaves your network; the only internet requests are made by Google's ads, billing and update services.</td></tr>
+<tr><td>Internet, network and Wi-Fi state, Wi-Fi multicast</td><td>To talk to your Mac on your local network and find it there. PingDrop's own traffic never leaves your network; the only internet requests are made by Google's ads, billing and update services — and, if you enter a promo code, one request to check it.</td></tr>
 <tr><td>Foreground service (connected device)</td><td>To keep the link to your Mac while the app is in the background.</td></tr>
 <tr><td>Post notifications</td><td>For the status notification, transfer progress, and Pro alerts and reminders.</td></tr>
 <tr><td>Camera</td><td>To scan the pairing QR code, and — only while you use them — for Phone as a webcam and Photo from your phone (Pro). Nothing is recorded or kept.</td></tr>
