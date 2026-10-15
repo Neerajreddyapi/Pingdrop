@@ -32,9 +32,9 @@ Notifications, clipboard and files — over your own Wi-Fi. No account. No cloud
 </div>
 
 > [!NOTE]
-> **PingDrop 1.4.1 is out** — on [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop),
-> and for the Mac as a signed, notarised `PingDrop.dmg` under
-> [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest).
+> **PingDrop for Mac is out** — a signed, notarised `PingDrop.dmg` under
+> [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest). PingDrop 1.4.1 for
+> Android is rolling out on [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop).
 
 ## What's new in 1.4.1
 
