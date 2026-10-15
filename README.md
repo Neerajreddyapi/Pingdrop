@@ -32,9 +32,23 @@ Notifications, clipboard and files — over your own Wi-Fi. No account. No cloud
 </div>
 
 > [!NOTE]
-> **PingDrop 1.4 is out on Google Play.** The Mac app is coming soon and will be
-> published here under [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases) —
-> click **Watch → Custom → Releases** at the top of this page to get notified.
+> **PingDrop 1.4.1 is out** — on [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop),
+> and for the Mac as a signed, notarised `PingDrop.dmg` under
+> [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest).
+
+## What's new in 1.4.1
+
+- **Your phone as a webcam** (Pro) — pick **PingDrop Camera** in FaceTime, Zoom, Meet or any
+  video app on the Mac. Your phone asks once, then streams over Wi-Fi in 720p, 1080p or 2K.
+- **Photo from your phone** (Pro) — click Photo on the Mac, take the shot on your phone, and it
+  opens on the Mac.
+- **Faster transfers** — up to 4× faster over Wi-Fi, in both directions.
+- **Send a folder** — zipped and sent in one go, from the phone or the Mac.
+- **Open links on the other side** — Share → Open on Mac on the phone, or Open Link in the
+  Mac's menu bar.
+- **Share → PingDrop** on the Mac — in Finder's Share menu and every app's Share button.
+- **A small 2×1 widget** with your Mac's battery and a Ring button — free.
+- **A cleaner Home screen** on the phone, and a tidier menu bar panel on the Mac.
 
 ## What's new in 1.4
 
@@ -87,8 +101,11 @@ send it over with one tap — Push clipboard to Mac, the Quick Settings tile, or
 own switch.
 
 **Files, both ways.** Drag files onto the PingDrop icon in your menu bar — or right-click
-them in Finder → Send to Phone — to send them to your phone, or share from any Android
+them in Finder → Share → PingDrop — to send them to your phone, or share from any Android
 app to your Mac. Transfers show live progress and land in Downloads.
+
+**Your phone as a webcam** (Pro). Pick **PingDrop Camera** in FaceTime, Zoom or Meet and
+your phone's camera streams to the Mac over Wi-Fi, in up to 2K.
 
 **Find my phone.** Ring your phone from the Mac's menu bar — loudly, even on silent —
 or ring your Mac from the phone, its widget or a Quick Settings tile.
@@ -116,7 +133,7 @@ tells you, and the Android app can install its own updates from Google Play.
 | Platform | Get it | Version |
 |---|---|---|
 | **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop) | <img src="https://getpingdrop.vercel.app/api/badge?kind=version" alt="Play Store version"> |
-| **Mac** | Coming soon to [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases) | — |
+| **Mac** | [PingDrop.dmg](https://github.com/Neerajreddyapi/Pingdrop/releases/latest/download/PingDrop.dmg) from [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest) | 1.4.1 |
 
 PingDrop is free. The Android app shows a small banner ad and, now and then, a full-screen ad
 after a transfer. Free transfers are up to 2 GB each, with 3 larger ones to try. A one-time
@@ -125,7 +142,7 @@ everything below.
 
 ## PingDrop Pro
 
-Bigger in PingDrop 1.4. One purchase in the Android app — no subscription — unlocks Pro on your phone **and**
+New in 1.4.1: your phone as a webcam. One purchase in the Android app — no subscription — unlocks Pro on your phone **and**
 your Mac.
 
 | | |
@@ -142,6 +159,8 @@ your Mac.
 | **Notification history** | Search every notification from the last 30 days, on your Mac. Kept on the Mac only. |
 | **Auto-send a folder** | A folder you select, like Screenshots, goes to your Mac automatically, over Wi-Fi. |
 | **Home-screen widget** | Your Mac's battery, plus Send files, Clipboard and Ring Mac, on your phone's home screen. |
+| **Phone as a webcam** | Your phone's camera as **PingDrop Camera** in FaceTime, Zoom, Meet and other apps, in up to 2K. |
+| **Photo from your phone** | Click Photo on the Mac, take it on the phone, and it opens on the Mac. |
 
 ## Getting started
 
@@ -214,6 +233,14 @@ phone you paired.
 **The Mac's Wi-Fi status keeps dropping.**
 Check System Settings → Privacy & Security → Local Network and make sure PingDrop is
 switched on. Without it the Mac can hear the phone but can't reply.
+
+**PingDrop Camera doesn't show up in Zoom, Meet or FaceTime.**
+PingDrop must be in your **Applications** folder. Open its Settings → **PingDrop Camera** →
+**Add PingDrop Camera**, then allow it in System Settings → General → Login Items &
+Extensions → Camera Extensions. Quit and reopen the video app, and pick **PingDrop Camera**.
+
+**Phone as a webcam: the picture is small, with black sides.**
+Hold the phone sideways. Upright, its picture is tall and the video app's frame is wide.
 
 **Can I pair more than one phone?**
 One phone per Mac. **Pair New Phone** replaces the current one.
