@@ -32,9 +32,24 @@ Notifications, clipboard and files — over your own Wi-Fi. No account. No cloud
 </div>
 
 > [!NOTE]
-> **PingDrop 1.4.1 is out** — on [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop),
-> and for the Mac as a signed, notarised `PingDrop.dmg` under
-> [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest).
+> **PingDrop 1.4.2 is out** for the Mac as a signed, notarised `PingDrop.dmg` under
+> [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest), and rolling out on
+> [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop). From 1.4.2 on,
+> the Mac app updates itself.
+
+## What's new in 1.4.2
+
+- **Calls on your Mac** — see who's calling and answer, decline, silence, mute or end it from a
+  card on your Mac, for phone calls and WhatsApp calls. The call's sound stays on your phone. Free.
+- **A connection that fixes itself** — after a Wi-Fi drop, the Mac sleeping, or Bluetooth / Wi-Fi
+  going off and on, PingDrop reconnects on its own. Works on your phone's hotspot and on Wi-Fi
+  without internet.
+- **The Mac app updates itself** — new versions install from the menu bar in one click.
+- **Clearer pairing** — every step shown on both sides, and a fresh code when one expires.
+- **Why it's on Bluetooth only** — both apps tell you, and a Reconnect button on the phone.
+- **PingDrop Camera** (Pro) — works in more video apps and keeps going if Wi-Fi blips mid-call.
+- **A fresh look** — a glass tab bar and softer buttons on the phone, Liquid Glass across the Mac app.
+- **Easier on your Mac's battery** — the Mac stays asleep with the lid closed.
 
 ## What's new in 1.4.1
 
@@ -107,18 +122,22 @@ app to your Mac. Transfers show live progress and land in Downloads.
 **Your phone as a webcam** (Pro). Pick **PingDrop Camera** in FaceTime, Zoom or Meet and
 your phone's camera streams to the Mac over Wi-Fi, in up to 2K.
 
+**Calls on your Mac.** See who's calling and answer, decline or silence it from your Mac —
+phone calls and WhatsApp calls. During a call: mute, speaker, volume and end, when your phone
+allows it. You still talk on the phone.
+
 **Find my phone.** Ring your phone from the Mac's menu bar — loudly, even on silent —
 or ring your Mac from the phone, its widget or a Quick Settings tile.
 
 **Battery at a glance.** Your phone's charge in the Mac menu bar, your Mac's charge in
 the phone's notification shade.
 
-**Stays connected.** Wi-Fi when both devices are on the same network, Bluetooth LE
-when they aren't. Reconnects on its own when you get home, wake your Mac or unlock
-your phone.
+**Stays connected.** Wi-Fi when both devices are on the same network (your phone's
+hotspot too), Bluetooth LE when they aren't. Fixes itself after Wi-Fi drops, your Mac
+sleeping, or Bluetooth and Wi-Fi going off and on — and tells you why when it can't.
 
-**Keeps itself current.** Each app notices when the other one is out of date and
-tells you, and the Android app can install its own updates from Google Play.
+**Keeps itself current.** The Mac app updates itself from the menu bar, the Android app
+installs its updates from Google Play, and each tells you when the other is out of date.
 
 ## Screenshots
 
@@ -133,7 +152,7 @@ tells you, and the Android app can install its own updates from Google Play.
 | Platform | Get it | Version |
 |---|---|---|
 | **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop) | <img src="https://getpingdrop.vercel.app/api/badge?kind=version" alt="Play Store version"> |
-| **Mac** | [PingDrop.dmg](https://github.com/Neerajreddyapi/Pingdrop/releases/latest/download/PingDrop.dmg) from [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest) | 1.4.1 |
+| **Mac** | [PingDrop.dmg](https://github.com/Neerajreddyapi/Pingdrop/releases/latest/download/PingDrop.dmg) from [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest) | 1.4.2 |
 
 PingDrop is free. The Android app shows a small banner ad and, now and then, a full-screen ad
 after a transfer. Free transfers are up to 2 GB each, with 3 larger ones to try. A one-time
@@ -191,10 +210,11 @@ your phone. FaceTime's effects — background blur, Studio Light, reactions — 
 
 - **Android** — updates arrive through Google Play, and PingDrop offers to install them
   itself when one is ready.
-- **Mac** — download the newest `PingDrop.dmg` from
-  [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases) and drag it into
-  **Applications**, replacing the old copy. Your pairing is kept. PingDrop on your phone
-  lets you know when a newer Mac version is out.
+- **Mac** — from 1.4.2 on, PingDrop updates itself: when a new version is out, the menu bar
+  shows **Update to PingDrop …** — one click and it restarts as the new version (or
+  **Preferences → Updates → Check for Updates…**). On 1.4.1 or older, download the newest
+  `PingDrop.dmg` from [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases) once and
+  drag it into **Applications**, replacing the old copy. Your pairing is kept.
 
 ## Requirements
 
