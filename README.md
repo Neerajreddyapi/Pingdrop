@@ -21,7 +21,7 @@ Notifications, clipboard and files — over your own Wi-Fi. No account. No cloud
 &nbsp;
 <a href="https://getpingdrop.vercel.app"><img src="https://img.shields.io/badge/Website-getpingdrop.vercel.app-6266F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PingDrop website" height="40"></a>
 
-[Website](https://getpingdrop.vercel.app) · [Download](#download) · [PingDrop Pro](#pingdrop-pro) · [Getting started](#getting-started) · [Privacy](#privacy) · [Troubleshooting](#troubleshooting) · [Report a bug](https://github.com/Neerajreddyapi/Pingdrop/issues)
+[Website](https://getpingdrop.vercel.app) · [Guide](https://getpingdrop.vercel.app/guide) · [Download](#download) · [PingDrop Pro](#pingdrop-pro) · [Getting started](#getting-started) · [Privacy](#privacy) · [Troubleshooting](#troubleshooting) · [Report a bug](https://github.com/Neerajreddyapi/Pingdrop/issues)
 
 <br>
 
@@ -106,6 +106,9 @@ Notifications, clipboard and files — over your own Wi-Fi. No account. No cloud
 ---
 
 ## What it does
+
+> **Every feature, free and Pro, and exactly where to find it on your phone and your Mac:
+> [the PingDrop guide →](https://getpingdrop.vercel.app/guide)**
 
 **Notifications on your Mac.** Messages, mail, anything on your phone shows up on
 your desktop. You choose which apps are allowed, one by one. Dismiss a notification
