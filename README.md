@@ -9,6 +9,8 @@ Notifications, clipboard and files — over your own Wi-Fi. No account. No cloud
 
 <a href="https://play.google.com/store/apps/details?id=com.app.pingdrop"><img src="https://getpingdrop.vercel.app/api/badge?kind=downloads" alt="Play Store downloads"></a>
 <a href="https://play.google.com/store/apps/details?id=com.app.pingdrop"><img src="https://getpingdrop.vercel.app/api/badge?kind=version" alt="Play Store version"></a>
+<a href="https://github.com/Neerajreddyapi/Pingdrop/releases/latest"><img src="https://getpingdrop.vercel.app/api/badge?kind=mac-downloads" alt="Mac downloads"></a>
+<a href="https://github.com/Neerajreddyapi/Pingdrop/releases/latest"><img src="https://getpingdrop.vercel.app/api/badge?kind=mac-version" alt="Mac version"></a>
 <img src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white" alt="Android 7.0+">
 <img src="https://img.shields.io/badge/macOS-14%2B-000000?logo=apple&logoColor=white" alt="macOS 14+">
 <a href="https://github.com/Neerajreddyapi/Pingdrop/stargazers"><img src="https://getpingdrop.vercel.app/api/badge?kind=stars" alt="GitHub stars"></a>
@@ -17,7 +19,7 @@ Notifications, clipboard and files — over your own Wi-Fi. No account. No cloud
 
 <a href="https://play.google.com/store/apps/details?id=com.app.pingdrop"><img src="https://img.shields.io/badge/Google_Play-Get_it_on_Android-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" height="40"></a>
 &nbsp;
-<img src="https://img.shields.io/badge/macOS-Coming_soon-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac app coming soon" height="40">
+<a href="https://github.com/Neerajreddyapi/Pingdrop/releases/latest/download/PingDrop.dmg"><img src="https://img.shields.io/badge/macOS-Download_for_Mac-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download PingDrop for Mac" height="40"></a>
 &nbsp;
 <a href="https://getpingdrop.vercel.app"><img src="https://img.shields.io/badge/Website-getpingdrop.vercel.app-6266F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PingDrop website" height="40"></a>
 
@@ -32,10 +34,24 @@ Notifications, clipboard and files — over your own Wi-Fi. No account. No cloud
 </div>
 
 > [!NOTE]
-> **PingDrop 1.4.2 is out** for the Mac as a signed, notarised `PingDrop.dmg` under
-> [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest), and rolling out on
-> [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop). From 1.4.2 on,
-> the Mac app updates itself.
+> **PingDrop 1.4.4 is out** for the Mac as a signed, notarised `PingDrop.dmg` under
+> [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest), and on
+> [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop). On 1.4.2 or
+> later, the Mac app updates itself. Every feature and where to find it:
+> [the guide](https://getpingdrop.vercel.app/guide).
+
+## What's new in 1.4.4
+
+- **Your phone gets along with other apps too** — if another app on your phone is using what
+  PingDrop needs, your phone now finds another way in and your Mac follows. Messages and files from
+  the Mac keep coming over Wi-Fi.
+
+## What's new in 1.4.3
+
+- **Your Mac gets along with other apps** — on a Mac where another app (a local web server, Docker,
+  a developer tool) was using what PingDrop needs, Wi-Fi never connected and PingDrop stayed on
+  Bluetooth only. It now picks a free way in by itself and tells your phone. File transfers and
+  PingDrop Camera too.
 
 ## What's new in 1.4.2
 
@@ -155,7 +171,7 @@ installs its updates from Google Play, and each tells you when the other is out 
 | Platform | Get it | Version |
 |---|---|---|
 | **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop) | <img src="https://getpingdrop.vercel.app/api/badge?kind=version" alt="Play Store version"> |
-| **Mac** | [PingDrop.dmg](https://github.com/Neerajreddyapi/Pingdrop/releases/latest/download/PingDrop.dmg) from [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest) | 1.4.2 |
+| **Mac** | [PingDrop.dmg](https://github.com/Neerajreddyapi/Pingdrop/releases/latest/download/PingDrop.dmg) from [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest) | <img src="https://getpingdrop.vercel.app/api/badge?kind=mac-version" alt="Mac version"> |
 
 PingDrop is free. The Android app shows a small banner ad and, now and then, a full-screen ad
 after a transfer. Free transfers are up to 2 GB each, with 3 larger ones to try. A one-time
