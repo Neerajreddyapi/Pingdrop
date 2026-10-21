@@ -13,7 +13,6 @@ Notifications, clipboard and files — over your own Wi-Fi. No account. No cloud
 <a href="https://github.com/Neerajreddyapi/Pingdrop/releases/latest"><img src="https://getpingdrop.vercel.app/api/badge?kind=mac-version" alt="Mac version"></a>
 <img src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white" alt="Android 7.0+">
 <img src="https://img.shields.io/badge/macOS-14%2B-000000?logo=apple&logoColor=white" alt="macOS 14+">
-<a href="https://github.com/Neerajreddyapi/Pingdrop/stargazers"><img src="https://getpingdrop.vercel.app/api/badge?kind=stars" alt="GitHub stars"></a>
 
 <br><br>
 
