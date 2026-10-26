@@ -92,9 +92,9 @@ installs its updates from Google Play, and each tells you when the other is out 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/screens.png" width="900" alt="PingDrop on Android — the Home, Sync and Settings tabs — and the PingDrop panel in the Mac menu bar">
+  <img src="screenshots/screens.png" width="900" alt="PingDrop on Android — the Home, Settings and About tabs — and the PingDrop panel in the Mac menu bar">
   <br>
-  <sub><b>Home</b> · <b>Sync</b> · <b>Settings</b> on Android &nbsp;—&nbsp; the <b>menu bar panel</b> on the Mac</sub>
+  <sub><b>Home</b> · <b>Settings</b> · <b>About</b> on Android &nbsp;—&nbsp; the <b>menu bar panel</b> on the Mac</sub>
 </p>
 
 ## Download
