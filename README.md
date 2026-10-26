@@ -33,11 +33,34 @@ Notifications, clipboard and files — over your own Wi-Fi. No account. No cloud
 </div>
 
 > [!NOTE]
-> **PingDrop 1.4.4 is out** for the Mac as a signed, notarised `PingDrop.dmg` under
+> **PingDrop 1.5 is out** for the Mac as a signed, notarised `PingDrop.dmg` under
 > [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest), and on
 > [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop). On 1.4.2 or
 > later, the Mac app updates itself. Every feature and where to find it:
 > [the guide](https://getpingdrop.vercel.app/guide).
+
+## What's new in 1.5
+
+- **Walk-away lock** (Pro) — your Mac locks itself when you walk away with your phone. Pick a
+  distance or press **Calibrate** at your desk; it won't lock while you're typing, and unlocking
+  pauses it until your phone is clearly back. Preferences › Pro › Walk-away lock.
+- **Desktop widget, Siri and Shortcuts** — your phone's battery, connection and Ring on the Mac's
+  desktop, and "Ring my phone with PingDrop", Stop Ringing, Phone Battery, Send Files and Open Link
+  in Siri and the Shortcuts app.
+- **Calls with any phone app** — allow Phone calls once (PingDrop › Settings › Calls on the phone, or
+  **Allow on phone** on the Mac's call card) to answer and end calls from your Mac whatever phone app
+  you use. Google's Phone app gives the most controls (mute and speaker too). Close the call card
+  with × and the call stays in the menu bar with its timer; a missed call shows once.
+- **Only your Mac** — the phone connects only to the Mac it was paired with, even with another
+  PingDrop Mac nearby or on the same Wi-Fi.
+- **Back in seconds after sleep** — open the lid and it reconnects by itself, on battery or on the
+  charger; and far less battery while the Mac sleeps.
+- **No pile of old notifications** when your Mac wakes — only new ones are shown.
+- **Turn the webcam picture** (Pro) — ⟲ ⟳ in the PingDrop Camera window; video apps get the same turn.
+- **New menu bar panel styles** — Default, Menu or Bubbles, with Liquid Glass on or off; Preferences
+  is now a standard Mac Settings window with tabs.
+- **"Your phone may have closed PingDrop"** — if the phone goes quiet, the Mac says why and how to fix it.
+- **Send diagnostics** and a **Feature guide** in the phone's About tab.
 
 ## What's new in 1.4.4
 
