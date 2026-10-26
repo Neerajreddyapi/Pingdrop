@@ -111,7 +111,7 @@ everything below.
 
 ## PingDrop Pro
 
-New in 1.4.1: your phone as a webcam. One purchase in the Android app — no subscription — unlocks Pro on your phone **and**
+New in 1.5: the walk-away lock. One purchase in the Android app — no subscription — unlocks Pro on your phone **and**
 your Mac.
 
 | | |
@@ -130,6 +130,7 @@ your Mac.
 | **Home-screen widget** | Your Mac's battery, plus Send files, Clipboard and Ring Mac, on your phone's home screen. |
 | **Phone as a webcam** | Your phone's camera as **PingDrop Camera** in FaceTime, Zoom, Meet and other apps, in up to 2K. |
 | **Photo from your phone** | Click Photo on the Mac, take it on the phone, and it opens on the Mac. |
+| **Walk-away lock** | Your Mac locks itself when you walk away with your phone — never while you're typing. Mac › Preferences › Pro. |
 
 ## Getting started
 
@@ -192,6 +193,10 @@ PingDrop is built so your data never has to leave your own devices.
 - Clipboard items your password manager marks as sensitive are never sent.
 - **Calendar reminders (Pro) are off until you turn them on** and allow calendar access
   on your Mac. Events are read on the Mac and sent, encrypted, only to your paired phone.
+- **The walk-away lock (Pro) is off until you turn it on.** It uses your phone's Bluetooth
+  signal strength on the Mac and keeps none of it.
+- **Send diagnostics** on the phone shares a connection log only when you choose to — never
+  notification, message or clipboard text.
 
 Full privacy policy: **https://neerajreddyapi.github.io/Pingdrop/privacy-policy.html**
 
