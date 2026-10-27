@@ -4,6 +4,15 @@ What changed in each version of PingDrop, newest first. The Mac app is under
 [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest) and the Android app is on
 [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop).
 
+## PingDrop 1.5.1
+
+<sub>27 October 2026</sub>
+
+- **Add to Siri in one click** (Mac) — Preferences › General › Siri & Shortcuts. Add Ring My Phone,
+  Stop Ringing My Phone or Phone Battery, then say "Hey Siri, ring my phone". Shortcuts you've
+  already added show ✓ Added.
+- **Large text sizes** (phone) — the PRO badge and the Get started buttons no longer break apart.
+
 ## PingDrop 1.5
 
 <sub>26 October 2026</sub>
