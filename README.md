@@ -242,6 +242,12 @@ development at [Buy Me a Coffee](https://buymeacoffee.com/neerajreddy).
 
 <a href="https://buymeacoffee.com/neerajreddy"><img src="https://img.shields.io/badge/support-Buy_me_a_coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=white" alt="Buy me a coffee"></a>
 
+Follow PingDrop for updates
+
+<a href="https://www.instagram.com/pingdropofficial/"><img src="https://img.shields.io/badge/Instagram-@pingdropofficial-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram @pingdropofficial"></a>
+<a href="https://x.com/neeraj_api"><img src="https://img.shields.io/badge/X-@neeraj__api-000000?style=flat&logo=x&logoColor=white" alt="X @neeraj_api"></a>
+<a href="https://www.linkedin.com/in/sri-neeraj-reddy-8336a8253"><img src="https://img.shields.io/badge/LinkedIn-Sri_Neeraj_Reddy-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 </div>
 
 ---
