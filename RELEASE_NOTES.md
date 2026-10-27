@@ -4,6 +4,17 @@ What changed in each version of PingDrop, newest first. The Mac app is under
 [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest) and the Android app is on
 [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop).
 
+## PingDrop 1.5.2
+
+<sub>27 October 2026</sub>
+
+- **Pairing a different phone starts clean** (Mac) — the previous phone's song and player controls,
+  call card, notifications, and clipboard and transfer history are cleared. Re-pairing the same
+  phone keeps everything.
+- **Easier setup** (phone) — Get started asks for notification access before you scan the QR code,
+  any step can be opened again (for the Mac download link), and the scan step has its own
+  **Scan the QR code** button.
+
 ## PingDrop 1.5.1
 
 <sub>27 October 2026</sub>

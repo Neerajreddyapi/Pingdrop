@@ -142,8 +142,8 @@ your Mac.
 3. Open PingDrop on the Mac. It lives in the **menu bar** at the top right, not in the
    Dock.
 4. Click the menu bar icon → **Pair New Phone**. A QR code appears.
-5. On the phone, tap **Pair with Mac** and scan the code. Allow notification access
-   when asked.
+5. On the phone, allow notification access when asked, then tap **Scan the QR code** and
+   scan the code.
 
 Both devices should show **Wi-Fi + BLE** within a few seconds. If only Bluetooth connects,
 check that both are on the same Wi-Fi and that PingDrop is switched on in the Mac's System
