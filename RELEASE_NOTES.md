@@ -4,6 +4,23 @@ What changed in each version of PingDrop, newest first. The Mac app is under
 [Releases](https://github.com/Neerajreddyapi/Pingdrop/releases/latest) and the Android app is on
 [Google Play](https://play.google.com/store/apps/details?id=com.app.pingdrop).
 
+## PingDrop 1.5.3
+
+<sub>16 November 2026</sub>
+
+- **Works on Wi-Fi alone** — answering a call, clipboard, Ring Phone and the rest now reach your
+  phone over Wi-Fi even with Bluetooth off. Bluetooth is the backup.
+- **Wi-Fi comes back after sleep** — open the lid and your phone reconnects by itself, with or
+  without Bluetooth.
+- **Reconnect is back** (Mac) — when Wi-Fi to your phone is down, the menu bar panel shows
+  **Reconnect**.
+- **A call's card stays open** if the connection drops for a moment.
+- **Push clipboard on the widget** (phone) — no animation, just the result.
+- **Steadier connection** — messages arrive in order, and a dropped link is noticed and reopened
+  sooner, without a burst of old notifications.
+
+Update both apps to 1.5.3 — until both are updated, everything works as it did in 1.5.2.
+
 ## PingDrop 1.5.2
 
 <sub>27 October 2026</sub>
